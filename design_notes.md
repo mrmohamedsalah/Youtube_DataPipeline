@@ -40,7 +40,7 @@ For larger workloads, I would use PostgreSQL's bulk loading features such as the
 
 ## Q3 — What would you improve with more time?
 
-If I had an additional hour, I would improve the robustness of the pipeline by implementing automatic retry logic for failed API requests.
+I would improve the robustness of the pipeline by implementing automatic retry logic for failed API requests.
 
 Currently, failed requests are logged and skipped so the pipeline can continue running. While this prevents the application from crashing, it may result in missing data if a temporary network issue occurs.
 
