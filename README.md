@@ -1,5 +1,7 @@
 # YouTube Data Pipeline
 
+**Architecture Diagram**
+
 ![Architecture Diagram](diagrams/youtube_datapipeline_architecture.png)
 
 
