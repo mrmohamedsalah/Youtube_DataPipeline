@@ -1,5 +1,8 @@
 # YouTube Data Pipeline
 
+![Architecture Diagram](diagrams/youtube_datapipeline_architecture.png)
+
+
 ## Overview
 
 This project is a solution for the **Junior Data Engineer Take-Home Assessment**.
